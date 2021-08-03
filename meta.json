@@ -1,20 +1,24 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Isle of Man",
+      "id": "Q9676"
+    },
+    "country": {
+      "name": "UK",
+      "id": "Q145"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q107831779",
+      "start": "2016-10-04",
+      "parent": "Q2993842"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "https://www.gov.im/about-the-government/council-of-ministers/the-council-of-ministers/ministers/",
+        "title": "Isle of Man Government - Ministers",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/isle-of-man-cabinet"
 }
