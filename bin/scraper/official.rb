@@ -8,11 +8,15 @@ class MemberList
   # details for an individual member
   class Member < Scraped::HTML
     field :name do
-      noko.css('.name').text.tidy
+      noko.last.xpath('text()').first.text.tidy
+          .delete_prefix('Hon ')
+          .delete_prefix('Dr ')
+          .sub(' MHK', '')
+          .sub(' CBE', '')
     end
 
     field :position do
-      noko.css('.position').text.tidy
+      noko.first.text
     end
   end
 
@@ -28,7 +32,8 @@ class MemberList
     private
 
     def member_container
-      noko.css('.member')
+      # Members aren't separated, but each has 3 <p> sections in a row
+      noko.css('.main-content p').each_slice(3)
     end
   end
 end
