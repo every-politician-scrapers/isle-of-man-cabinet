@@ -1,0 +1,277 @@
+{
+  "title": "Lawrie Hooper",
+  "pageID": 67643567,
+  "categories": [
+    "Living people",
+    "Liberal Vannin Party politicians",
+    "Members of the House of Keys 2016–2021",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lawrie Lee Hooper is a Welsh-born Manx politician who is the leader of Liberal Vannin Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Liberal Vannin Party"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Lawrie Lee Hooper"
+                ]
+              }
+            },
+            {
+              "text": "He represented Ramsey in the House of Keys from 2016.",
+              "links": [
+                {
+                  "text": "Ramsey",
+                  "type": "internal",
+                  "page": "Ramsey, Isle of Man"
+                },
+                {
+                  "type": "internal",
+                  "page": "House of Keys"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Manx politician",
+          "template": "short description"
+        },
+        {
+          "date": "May 2021",
+          "template": "blp sources"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Lawrie Hooper"
+          },
+          "honorific-suffix": {
+            "text": "MHK",
+            "links": [
+              {
+                "text": " MHK",
+                "type": "internal",
+                "page": "Member of the House of Keys "
+              }
+            ]
+          },
+          "office": {
+            "text": "Member of the House of Keys for Ramsey",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of the House of Keys"
+              },
+              {
+                "text": "Ramsey",
+                "type": "internal",
+                "page": "Ramsey, Isle of Man"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "governor": {
+            "text": "Richard Gozney",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Richard Gozney"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "22 September 2016"
+          },
+          "birth_place": {
+            "text": "Cardiff",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cardiff"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Manx",
+            "links": [
+              {
+                "text": "Manx",
+                "type": "internal",
+                "page": "Isle of Man"
+              }
+            ]
+          },
+          "party": {
+            "text": "Liberal Vannin Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Liberal Vannin Party"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Rachel Hooper"
+          },
+          "education": {
+            "text": "Ramsey Grammar School",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ramsey Grammar School"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Member of Ramsey Town Commissioners",
+            "links": [
+              {
+                "text": "Ramsey Town Commissioners",
+                "type": "internal",
+                "page": "Ramsey, Isle of Man"
+              }
+            ]
+          },
+          "termstart5": {
+            "text": "26 April 2012"
+          },
+          "termend5": {
+            "text": "22 September 2016"
+          },
+          "alma_mater": {
+            "text": "University of Keele",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Keele"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Tynwald - Parliament of the Isle of Man - HOOPER Lawrie Lee MHK",
+          "url": "https://www.tynwald.org.im/memoff/member/Pages/HooperLL.aspx",
+          "access-date": "2021-05-12",
+          "website": "www.tynwald.org.im",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hooper was born in Cardiff, Wales."
+            },
+            {
+              "text": "He studied at Ramsey Grammar School and Keele University."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He trained and qualified as a Chartered Accountant at PricewaterhouseCoopers on the Isle of Man with a focus on Audit."
+            },
+            {
+              "text": "He then spent four years working as a Manager at Crowe Morgan."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hooper stood unsuccessfully for the House of Keys as an independent candidate in 2011."
+            },
+            {
+              "text": "He served as a Ramsey Town Commissioner between April 2012 and September 2016, including as chairman for the 2016/17 term until his election to the House of Keys in 2016 as a Liberal Vannin candidate."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Hooper became leader of the Liberal Vannin Party in August 2020."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Election Results",
+      "depth": 0
+    },
+    {
+      "title": "2011",
+      "depth": 1,
+      "templates": [
+        {
+          "template": "election box",
+          "candidates": []
+        }
+      ]
+    },
+    {
+      "title": "2016",
+      "depth": 1,
+      "templates": [
+        {
+          "template": "election box",
+          "candidates": []
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

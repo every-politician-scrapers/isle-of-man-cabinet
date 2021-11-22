@@ -1,0 +1,164 @@
+{
+  "title": "Tim Crookall",
+  "pageID": 33535563,
+  "categories": [
+    "Members of the House of Keys 2006–2011",
+    "Members of the House of Keys 2011–2016",
+    "Members of the House of Keys 2021–2026",
+    "Living people",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tim Crookall is a Member of the House of Keys (the lower house of Tynwald, the Isle of Man parliament) for Glenfaba & Peel, elected in the 2021 Manx general election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Member of the House of Keys"
+                },
+                {
+                  "type": "internal",
+                  "page": "Isle of Man"
+                },
+                {
+                  "type": "internal",
+                  "page": "Glenfaba & Peel"
+                },
+                {
+                  "text": "2021 Manx general election",
+                  "type": "internal",
+                  "page": "2021 Manx general election"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Tim Crookall"
+                ]
+              }
+            },
+            {
+              "text": "He was formerly Member of the House of Keys for Peel from 2006 to 2015 (succeeding Hazel Hannan), and Minister for Education and Children from 2012 to 2016.",
+              "links": [
+                {
+                  "text": "Peel",
+                  "type": "internal",
+                  "page": "Peel, Isle of Man"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hazel Hannan"
+                },
+                {
+                  "text": "Minister for Education and Children",
+                  "type": "internal",
+                  "page": "Department of Education and Children (Isle of Man)"
+                }
+              ]
+            },
+            {
+              "text": "After 2015 he was a member of the upper house, the Legislative Council.",
+              "links": [
+                {
+                  "text": "Legislative Council",
+                  "type": "internal",
+                  "page": "Legislative Council of the Isle of Man"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "politics of the isle of man"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.tynwald.org.im",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Poll Results: Election 21 Isle of Man General Election",
+          "url": "https://www.manxradio.com/election-2021/candidates-20211/",
+          "access-date": "24 September 2021",
+          "work": "Manx Radio",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Governmental positions",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Chairman of Isle of Man Water Authority, 2009–11",
+            "links": [
+              {
+                "text": "Isle of Man Water Authority",
+                "type": "internal",
+                "page": "Isle of Man Water and Sewerage Authority"
+              }
+            ]
+          },
+          {
+            "text": "Minister of Community, Culture and Leisure, 2011–12",
+            "links": [
+              {
+                "text": "Minister of Community, Culture and Leisure",
+                "type": "internal",
+                "page": "Department of Community, Culture and Leisure (Isle of Man)"
+              }
+            ]
+          },
+          {
+            "text": "Minister for Education and Children, 2012–16",
+            "links": [
+              {
+                "text": "Minister for Education and Children",
+                "type": "internal",
+                "page": "Department of Education (Isle of Man)"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "house of keys 2006–2011"
+        },
+        {
+          "template": "house of keys 2011–2016"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "isleofman-politician-stub"
+        }
+      ]
+    }
+  ]
+}
