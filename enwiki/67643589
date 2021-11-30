@@ -176,42 +176,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "Election results",
-      "depth": 0
-    },
-    {
-      "title": "2016",
-      "depth": 1,
-      "templates": [
-        {
-          "template": "election box",
-          "candidates": []
-        }
-      ]
-    },
-    {
-      "title": "2021",
-      "depth": 1,
-      "templates": [
-        {
-          "template": "election box",
-          "candidates": []
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "isleofman-politician-stub"
-        }
-      ]
     }
   ]
 }
