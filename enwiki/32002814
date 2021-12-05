@@ -55,6 +55,10 @@
       ],
       "templates": [
         {
+          "description": "British Army general",
+          "template": "short description"
+        },
+        {
           "list": [
             "the 18th-century British doctor",
             "John Lorimer (doctor)"
