@@ -101,8 +101,13 @@
             "text": "Sir John Lorimer"
           },
           "honorific-prefix": {
-            "text": "His Excellency",
+            "text": "Lieutenant General His Excellency",
             "links": [
+              {
+                "text": "Lieutenant General",
+                "type": "internal",
+                "page": "Lieutenant-general (United Kingdom)"
+              },
               {
                 "type": "internal",
                 "page": "His Excellency"
