@@ -78,22 +78,6 @@
         {
           "template": "politics of the isle of man"
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.tynwald.org.im",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Poll Results: Election 21 Isle of Man General Election",
-          "url": "https://www.manxradio.com/election-2021/candidates-20211/",
-          "access-date": "24 September 2021",
-          "work": "Manx Radio",
-          "language": "en",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

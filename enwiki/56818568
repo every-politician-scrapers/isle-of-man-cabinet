@@ -74,40 +74,6 @@
           "description": "Manx politician",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.manxradio.com/news/isle-of-man-news/result-in-legco-election-on-first-vote/",
-          "title": "Result in LegCo election on first vote",
-          "website": "Manx Radio",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.tynwald.org.im/business/listen/Pages/17-18.aspx",
-          "title": "Tynwald - Parliament of the Isle of Man -Oct 2017 - Sep 2018",
-          "website": "www.tynwald.org.im",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Isle of Man election: Government ministers ousted by voters",
-          "url": "https://www.bbc.co.uk/news/world-europe-isle-of-man-58672957",
-          "access-date": "24 September 2021",
-          "work": "BBC News",
-          "date": "24 September 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Poll Results: Election 21 Isle of Man General Election",
-          "url": "https://www.manxradio.com/election-2021/candidates-20211/",
-          "access-date": "24 September 2021",
-          "work": "Manx Radio",
-          "language": "en",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
