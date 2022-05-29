@@ -1,0 +1,24 @@
+{
+    "jurisdiction": {
+      "name": "Isle of Man",
+      "id": "Q9676"
+    },
+    "country": {
+      "name": "UK",
+      "id": "Q145"
+    },
+    "cabinet": {
+      "id": "Q108933944",
+      "start": "2021-10-12",
+      "parent": "Q2993842"
+    },
+    "source": {
+        "url":   "https://www.gov.im/about-the-government/council-of-ministers/the-council-of-ministers/ministers/",
+        "title": "Isle of Man Government - Ministers",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/isle-of-man-cabinet"
+}
