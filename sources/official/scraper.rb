@@ -8,21 +8,25 @@ class MemberList
   class Member
     def name
       Name.new(
-        full: noko.last.xpath('text()').first.text.tidy,
+        full: name_node.css('text()').first.text.tidy,
         prefixes: %w[Hon Dr],
         suffixes: %w[MHK CBE MBE],
       ).short
     end
 
     def position
-      noko.first.text
+      noko.text.tidy
+    end
+
+    # Name is in next non-empty <p> after the <h2>
+    def name_node
+      noko.xpath('following-sibling::p').find { |node| !node.text.tidy.empty? }
     end
   end
 
   class Members
     def member_container
-      # Members aren't separated, but each has 3 <p> sections in a row
-      noko.css('.main-content p').each_slice(3)
+      noko.css('.main-content h2')
     end
   end
 end
