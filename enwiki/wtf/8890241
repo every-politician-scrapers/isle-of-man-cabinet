@@ -1,0 +1,737 @@
+{
+  "title": "Juan Watterson",
+  "pageID": 8890241,
+  "categories": [
+    "1980 births",
+    "Alumni of the University of Lincoln",
+    "Living people",
+    "Members of the House of Keys 2011–2016",
+    "Members of the House of Keys 2016–2021"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Juan Paul Watterson FCA CMgr FCMI FRSA SHK (born 1980) is a Manx politician, who is Speaker of the House of Keys, and a member for Rushen, in the Isle of Man.",
+              "links": [
+                {
+                  "text": "FCA",
+                  "type": "internal",
+                  "page": "Chartered accountant",
+                  "anchor": "United Kingdom"
+                },
+                {
+                  "type": "internal",
+                  "page": "CMgr"
+                },
+                {
+                  "type": "internal",
+                  "page": "FCMI"
+                },
+                {
+                  "type": "internal",
+                  "page": "FRSA"
+                },
+                {
+                  "text": "SHK",
+                  "type": "internal",
+                  "page": "Speaker of the House of Keys"
+                },
+                {
+                  "text": "Manx",
+                  "type": "internal",
+                  "page": "Isle of Man"
+                },
+                {
+                  "type": "internal",
+                  "page": "House of Keys"
+                },
+                {
+                  "text": "Rushen",
+                  "type": "internal",
+                  "page": "Rushen (constituency)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Isle of Man"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Juan Paul Watterson"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Manx politician (born 1980)",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "October 2009",
+          "template": "blp sources"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": 1980
+          }
+        },
+        {
+          "spouse": "Helena Perry",
+          "from": "27 March 2010",
+          "template": "marriage"
+        },
+        {
+          "template": "politics of the isle of man"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific_prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Juan Watterson"
+          },
+          "honorific_suffix": {
+            "text": "FCA CMgr FCMI FRSA SHK",
+            "links": [
+              {
+                "text": "FCA",
+                "type": "internal",
+                "page": "Chartered accountant",
+                "anchor": "United Kingdom"
+              },
+              {
+                "type": "internal",
+                "page": "CMgr"
+              },
+              {
+                "type": "internal",
+                "page": "FCMI"
+              },
+              {
+                "type": "internal",
+                "page": "FRSA"
+              },
+              {
+                "text": "SHK",
+                "type": "internal",
+                "page": "Speaker of the House of Keys"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1980",
+            "number": 1980
+          },
+          "birth_place": {
+            "text": "Isle of Man",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Isle of Man"
+              }
+            ]
+          },
+          "education": {
+            "text": "Rushen Infants School\nRushen Junior School\nCastle Rushen High School",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Castle Rushen High School"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Lincoln",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Lincoln"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician, chartered accountant",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              },
+              {
+                "text": "chartered accountant",
+                "type": "internal",
+                "page": "chartered accountant"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Helena Perry (m. 27 March 2010)"
+          },
+          "office": {
+            "text": "Speaker of the House of Keys",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Speaker of the House of Keys"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "27 September 2016"
+          },
+          "predecessor": {
+            "text": "Steve Rodan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Steve Rodan"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Minister for Home Affairs",
+            "links": [
+              {
+                "text": "Minister for Home Affairs",
+                "type": "internal",
+                "page": "Department of Home Affairs (Isle of Man)"
+              }
+            ]
+          },
+          "termstart3": {
+            "text": "13 September 2011"
+          },
+          "termend3": {
+            "text": "27 September 2016"
+          },
+          "predecessor3": {
+            "text": "John Shimmin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "John Shimmin"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "John Shimmin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "John Shimmin"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Member of the House of Keys for Rushen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of the House of Keys"
+              },
+              {
+                "type": "internal",
+                "page": "Rushen"
+              }
+            ]
+          },
+          "termstart4": {
+            "text": "23 November 2006"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.tynwald.org.im/tynwald/biographies/watterson-jp.pdf",
+          "title": "Archived copy",
+          "access-date": "2015-12-16",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20120223005114/http://www.tynwald.org.im/tynwald/biographies/watterson-jp.pdf",
+          "archive-date": "2012-02-23",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Born in 1980 to John and Alison Watterson, he was educated at Rushen Infants School, Rushen Junior School and Castle Rushen High School.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Castle Rushen High School"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Qualification and professional memberships",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Watterson attended the University of Lincoln (University of Lincolnshire & Humberside) where he graduated in 2001 with a First Class BA (Hons) in Management.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Lincoln"
+                }
+              ]
+            },
+            {
+              "text": "He joined international accountancy firm KPMG where he qualified as a Chartered Accountant in 2005.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "KPMG"
+                }
+              ]
+            },
+            {
+              "text": "He was the ICAEW Chairman of the National Student Council, and later served on the institute's Young Professionals Advisory Board, Public Sector Advisory Board and Members and Commercial Board of the Institute as well as having been part of its 90-member governing ICAEW Council."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.icaew.com/about-icaew/who-we-are/governance/council/watterson-juan-",
+          "archiveurl": "https://web.archive.org/web/20181020224156/https://www.icaew.com/about-icaew/who-we-are/governance/council/watterson-juan-",
+          "archivedate": "2018-02-02",
+          "url-status": "dead",
+          "title": "Watterson, Juan",
+          "website": "icaew.com",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Watterson was first elected to the House of Keys in 2006 aged 26 years 142 days, making him the second youngest ever elected MHK."
+            },
+            {
+              "text": "He was appointed a political member of the Department of Local Government and the Environment and Chairman of the island's Planning Authority.",
+              "links": [
+                {
+                  "text": "Department of Local Government and the Environment",
+                  "type": "internal",
+                  "page": "Department of Local Government and the Environment (Isle of Man)"
+                }
+              ]
+            },
+            {
+              "text": "Until May 2009, he had special responsibility as a \"political member\" for Housing (DoLGE) and Social Security within the Department of Health and Social Security (DHSS), these roles being the Manx equivalent of a junior minister in the UK.",
+              "links": [
+                {
+                  "text": "Department of Health and Social Security",
+                  "type": "internal",
+                  "page": "Department of Health and Social Security (Isle of Man)"
+                },
+                {
+                  "text": "junior minister",
+                  "type": "internal",
+                  "page": "junior minister"
+                },
+                {
+                  "text": "UK",
+                  "type": "internal",
+                  "page": "United Kingdom"
+                }
+              ]
+            },
+            {
+              "text": "After 10 months as Chairman of the Planning Committee, he was appointed to the Department of Economic Development with special responsibility for the island's financial services sector.",
+              "links": [
+                {
+                  "text": "Department of Economic Development",
+                  "type": "internal",
+                  "page": "Department of Economic Development (Isle of Man)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was re-elected in the 2011 General Election with 3,080 votes, the highest number of votes in the island, and the largest in Rushen since the 1986 boundary changes.",
+              "links": [
+                {
+                  "text": "2011 General Election",
+                  "type": "internal",
+                  "page": "2011 Manx general election"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed the Minister for Home Affairs, Chairman of the Communications Commission, and in 2012 became the island's first Armed Forces Champion.",
+              "links": [
+                {
+                  "text": "Minister for Home Affairs",
+                  "type": "internal",
+                  "page": "Department of Home Affairs (Isle of Man)"
+                }
+              ]
+            },
+            {
+              "text": "At 31 years 102 days, he became the youngest ever member of the Council of Ministers on his appointment as Minister for Home Affairs on 14 October 2011."
+            }
+          ]
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "Watterson joined the Armed Forces Parliamentary Scheme where he is a postgraduate (2012) and Honorary Commander (RN).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Armed Forces Parliamentary Scheme"
+                }
+              ]
+            },
+            {
+              "text": "On 1 August 2016 he was appointed Hon. Colonel of the Isle of Man Army Cadet Force."
+            }
+          ]
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "2006: Elected to House of Keys with 2,430 votes."
+          },
+          {
+            "text": "2011: Re-elected to the House of Keys, with 3,080 votes, the largest received by any candidate since 1981."
+          },
+          {
+            "text": "2011: Appointed Minister for Home Affairs and Chairman of the Communications Commission"
+          },
+          {
+            "text": "2016: Chartered Manager and Fellow of the Chartered Management Institute"
+          },
+          {
+            "text": "2016: Re-elected after boundary changes with 2,087 votes, the third largest total on the island."
+          },
+          {
+            "text": "2016: Elected unopposed to the position of Speaker of the House of Keys.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Speaker of the House of Keys"
+              }
+            ]
+          },
+          {
+            "text": "2021: Re-elected to the House of Keys with 2,384 votes, the largest total on the island, and re-elected unopposed as Speaker."
+          }
+        ]
+      ],
+      "references": [
+        {
+          "url": "http://www.iomtoday.co.im/news/isle-of-man-news/watterson-elected-speaker-1-8149676",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20160928161723/http://www.iomtoday.co.im/news/isle-of-man-news/watterson-elected-speaker-1-8149676",
+          "archive-date": "2016-09-28",
+          "title": "Watterson elected Speaker - Isle of Man Today",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.gov.im/dlge/dept/political.xml",
+          "title": "Archived copy",
+          "access-date": "2009-11-06",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20100303230916/http://www.gov.im/dlge/dept/political.xml",
+          "archive-date": "2010-03-03",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.gov.im/ded",
+          "title": "Isle of Man Government - Enterprise",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Election results",
+      "depth": 0
+    },
+    {
+      "title": "2006",
+      "depth": 1,
+      "templates": [
+        {
+          "template": "election box",
+          "candidates": []
+        }
+      ]
+    },
+    {
+      "title": "2011",
+      "depth": 1,
+      "templates": [
+        {
+          "template": "election box",
+          "candidates": []
+        }
+      ]
+    },
+    {
+      "title": "2016",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 2014, Tynwald approved recommendations from the Boundary Review Commission which saw the reform of the island's electoral boundaries.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tynwald"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Under the new system, the island was divided into 12 constituencies based on population, with each area represented by two members of the House of Keys.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "House of Keys"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As a result of these changes the constituency was reduced in size and lost one of its three MHKs."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "election box",
+          "candidates": []
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.gov.im/media/1371852/constituency-map-no-12-rushen.pdf",
+          "title": "Representation of the People (Amendment) Act 2014: Map No. 12, RUSHEN CONSTITUENCY",
+          "website": "gov.im",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "2021",
+      "depth": 1,
+      "tables": [
+        [
+          {
+            "col1": {
+              "text": "Party"
+            },
+            "col2": {
+              "text": "Candidate"
+            },
+            "col3": {
+              "text": "Votes"
+            }
+          },
+          {
+            "col1": {
+              "text": "Independent"
+            },
+            "col2": {
+              "text": "Juan Watterson"
+            },
+            "col3": {
+              "text": "2384",
+              "number": 2384
+            }
+          },
+          {
+            "col1": {
+              "text": "Independent"
+            },
+            "col2": {
+              "text": "Michelle Haywood"
+            },
+            "col3": {
+              "text": "1386",
+              "number": 1386
+            }
+          },
+          {
+            "col1": {
+              "text": "Independent"
+            },
+            "col2": {
+              "text": "Mark Kemp"
+            },
+            "col3": {
+              "text": "1163",
+              "number": 1163
+            }
+          },
+          {
+            "col1": {
+              "text": "Manx Green Party"
+            },
+            "col2": {
+              "text": "Andrew Langan-Newton"
+            },
+            "col3": {
+              "text": "1109",
+              "number": 1109
+            }
+          }
+        ]
+      ],
+      "references": [
+        {
+          "title": "General Election 2021: Rushen Result",
+          "url": "https://www.soundradio.im/news/news_story_693544.html",
+          "access-date": "2021-09-24",
+          "website": "the Sound",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Watterson has been married to Helena (née Perry) since March 2010, they have a daughter and son together and live in Port St. Mary, Isle of Man."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In December 2011 he infamously vomited on a public bus after attending his Department's (Department of Home Affairs (Isle of Man)) Christmas party, shortly after giving a talk about a need for a \"responsible attitude\" towards drinking over the festive period.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Department of Home Affairs (Isle of Man)"
+                }
+              ]
+            },
+            {
+              "text": "This was featured in a January 2012 edition of Private Eye, as a nominee of the \"Don't Do What I Do, Do What I Say\" Rotten Borough award.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Private Eye"
+                }
+              ]
+            },
+            {
+              "text": "He later apologised for his \"lapse of judgement\" in \"getting a little bit drunk\"."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://isleofman.com/News/details/14607/private-eye-highlights-minister-s-lapse-of-judgement-",
+          "title": "Private Eye highlights Minister's \"lapse of judgement\" {{!}} Isle of Man News :: isleofman.com",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Publications",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tynwaldballs and Tynwaldballs 2, two collections of quotes and gaffes from the Manx parliament.",
+              "formatting": {
+                "italic": [
+                  "Tynwaldballs",
+                  "Tynwaldballs 2"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "house of keys 2011–2016"
+        },
+        {
+          "template": "house of keys 2016–"
+        }
+      ]
+    }
+  ]
+}

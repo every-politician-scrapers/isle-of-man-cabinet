@@ -1,0 +1,133 @@
+{
+  "title": "Kate Lord-Brennan",
+  "pageID": 56818568,
+  "categories": [
+    "Members of the Legislative Council of the Isle of Man",
+    "Members of the House of Keys 2021–2026",
+    "Manx women in politics",
+    "Year of birth missing (living people)",
+    "Living people",
+    "Place of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kate Lord-Brennan is a Manx politician who has been a member of the House of Keys for the constituency of Glenfaba & Peel since the 2021 Manx general election.",
+              "links": [
+                {
+                  "text": "Manx",
+                  "type": "internal",
+                  "page": "Isle of Man"
+                },
+                {
+                  "type": "internal",
+                  "page": "House of Keys"
+                },
+                {
+                  "type": "internal",
+                  "page": "Glenfaba & Peel"
+                },
+                {
+                  "text": "2021 Manx general election",
+                  "type": "internal",
+                  "page": "2021 Manx general election"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Kate Lord-Brennan"
+                ]
+              }
+            },
+            {
+              "text": "Prior to September 2021, Lord-Brennan served as a member of the Legislative Council of the Isle of Man, having been elected in March 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Legislative Council of the Isle of Man"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In October 2021 she was appointed by Chief Minister Alfred Cannan as Minister for the Cabinet Office.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Alfred Cannan"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Manx politician",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.manxradio.com/news/isle-of-man-news/result-in-legco-election-on-first-vote/",
+          "title": "Result in LegCo election on first vote",
+          "website": "Manx Radio",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.tynwald.org.im/business/listen/Pages/17-18.aspx",
+          "title": "Tynwald - Parliament of the Isle of Man -Oct 2017 - Sep 2018",
+          "website": "www.tynwald.org.im",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Isle of Man election: Government ministers ousted by voters",
+          "url": "https://www.bbc.co.uk/news/world-europe-isle-of-man-58672957",
+          "access-date": "24 September 2021",
+          "work": "BBC News",
+          "date": "24 September 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Poll Results: Election 21 Isle of Man General Election",
+          "url": "https://www.manxradio.com/election-2021/candidates-20211/",
+          "access-date": "24 September 2021",
+          "work": "Manx Radio",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "isleofman-politician-stub"
+        }
+      ]
+    }
+  ]
+}
